@@ -1,0 +1,31 @@
+* {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-shadow: -1px -1px 0 rgb(63, 61, 61), 1px -1px 0 rgb(63, 61, 61), -1px 1px 0 rgb(63, 61, 61), 1px 1px 0 rgb(63, 61, 61);
+    text-align: center;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+h2{
+    font-size: 1.5rem;
+}
+
+body {
+    background-image: url('../css/pictures/IMG_8644.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    display: flex;
+    align-content: center;
+}
+
+#clockText {
+    height: 200px;
+    margin: auto auto;
+}
